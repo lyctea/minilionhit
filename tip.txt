@@ -1,0 +1,18 @@
+1、快速创建xhtml
+		html:xt
+
+2、快速生成li
+		ul#nav>li*7>{导航$}
+			<ul id="nav">
+				<li>导航1</li>
+				<li>导航2</li>
+				<li>导航3</li>
+				<li>导航4</li>
+				<li>导航5</li>
+				<li>导航6</li>
+				<li>导航7</li>
+			</ul>
+
+3、reset.css 清除差异和重置默认样式
+
+4、a标签是内联元素，不能加宽高
